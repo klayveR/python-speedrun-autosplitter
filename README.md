@@ -1,4 +1,4 @@
-# python-speedrunautosplitter
+# Python Speedrun Autosplitter
 A python script for SikuliX to automate splitting in speedruns based on image recognition.
 
 ## Setup
